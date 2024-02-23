@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader type="ISBD-ER">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Pamphlets of the American Revolution : [selections] / edited by Bernard Bailyn</title>
+            <editor>Bailyn, Bernard</editor>
+         </titleStmt>
+         <extent>
+            <seg type="designation">Text data</seg>
+            <seg type="size">(6 files : ca. 2.4, 62.3, 94.1, 169, 20.9, 66.5 KB)</seg>
+         </extent>
+         <publicationStmt>
+            <authority xml:id="greda1">deposited by<name type="person">Greenstein, Daniel I.</name>
+               <name type="department">AHDS Executive</name>
+               <name type="institution">King’s College London</name>
+               <name type="place">London</name>
+               <address>[Depositor details removed]</address>
+               <date>1994-01-12</date>
+            </authority>
+            <distributor>
+               <orgName type="OTA">Oxford Text Archive</orgName>
+               <placeName>Oxford</placeName>
+               <address>
+                  <orgName type="OTA">Oxford Text Archive</orgName>
+                  <orgName type="Bodleian">Bodleian Libraries</orgName>
+                  <addrLine>Broad St</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX1 3BG</addrLine>
+               </address>
+               <email>ota@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="OTA">2021</idno>
+            <idno type="ota">2021</idno>
+	           <idno type="PURL">http://purl.ox.ac.uk/ota/2021</idno>
+            <availability n="OTA-new" status="free" rend="visible">
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+	  Distributed by the University of Oxford under a Creative Commons
+	  Attribution-NonCommercial-ShareAlike 3.0 Unported License. </licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Corpus</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull xml:id="a">
+               <titleStmt>
+                  <title>Pamphlets of the American Revolution : 1750-1776</title>
+                  <editor>Bailyn, Bernard</editor>
+                  <respStmt>
+                     <resp>unspecified</resp>
+                     <name>Garrett, Jane N.</name>
+                  </respStmt>
+               </titleStmt>
+               <publicationStmt>
+                  <publisher>Belknap Press of Harvard University Press</publisher>
+                  <pubPlace>Cambridge [MA]</pubPlace>
+                  <date>1965</date>
+               </publicationStmt>
+               <seriesStmt>
+                  <p>John Harvard library</p>
+               </seriesStmt>
+               <notesStmt>
+                  <note>Contents: Dickinson, John, 1732-1808. -- The late regulations respecting the British colonies : [Philadelphia 1765] ; Mayhew, James. -- A discour[s]e concerning unlimited submission and nonresistance to the higher power : [Boston 1750] ; Otis, James, 1725-1783. -- The rights of British colonies asserted and proved : [Boston 1764], [and], A vindication of the British colonies against the aspersions of the Halifax gentleman in his letter to a Rhode Island friend : [Boston 1765] ; Thacher, Oxenbridge, 1719-1765. -- The sentiments of a British American : [Boston 1764]</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>Encoding format: Plain text</p>
+            <p>Italics in curly brackets</p>
+            <p>Footnotes in square brackets</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy xml:id="OTASH">
+               <bibl>University of Oxford Text Archive Subject Headings</bibl>
+            </taxonomy>
+            <taxonomy xml:id="LCSH">
+               <bibl>Library of Congress Subject Headings</bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <date>1750-1776</date>
+         </creation>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="#OTASH">
+               <term type="genre">Linguistic corpora</term>
+            </keywords>
+            <keywords scheme="#LCSH">
+               <term type="genre">Linguistic analysis (Linguistics)</term>
+            </keywords>
+            <keywords scheme="#LCSH">
+               <term type="genre">United States -- History -- Revolution, 1775-1783 -- Pamphlets</term>
+            </keywords>
+            <keywords scheme="#LCSH">
+               <term type="genre">Anthologies -- United States -- 18th century</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords scheme="http://www.ota.ox.ac.uk/processing">
+               <term type="class">corpus</term>
+               <term type="license">Free for non-commercial use</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2002-10-28</date>
+            <label>Cataloguer</label>
+            <name>Colley, Greg</name>Header recomposed with TEIXML header
+      </change>
+         <change>
+            <date>1997-12-18</date>
+            <label>Converter</label>
+            <name>Burnard, Lou</name>Header auto-generated from TOMES
+      </change>
+      </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="OTA-filemap" rend="visible" n="unrestricted">
+            <ab type="file">
+               <seg type="part">1</seg>
+               <seg type="mimetype">text/plain</seg>
+               <seg type="format">Unknown textual format</seg>
+               <ptr type="resourcePart" target="dson.2021"/>
+            </ab>
+            <ab type="file">
+               <seg type="part">2</seg>
+               <seg type="mimetype">text/plain</seg>
+               <seg type="format">Unknown textual format</seg>
+               <ptr type="resourcePart" target="mayhew2.2021"/>
+            </ab>
+            <ab type="file">
+               <seg type="part">3</seg>
+               <seg type="mimetype">text/plain</seg>
+               <seg type="format">Unknown textual format</seg>
+               <ptr type="resourcePart" target="otis.2021"/>
+            </ab>
+            <ab type="file">
+               <seg type="part">4</seg>
+               <seg type="mimetype">text/plain</seg>
+               <seg type="format">Unknown textual format</seg>
+               <ptr type="resourcePart" target="thacher.2021"/>
+            </ab>
+            <ab type="file">
+               <seg type="part">5</seg>
+               <seg type="mimetype">text/plain</seg>
+               <seg type="format">Unknown textual format</seg>
+               <ptr type="resourcePart" target="usaotis2.2021"/>
+            </ab>
+         </div>
+      </body>
+  </text>
+</TEI>
